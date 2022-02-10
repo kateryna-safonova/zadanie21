@@ -3,24 +3,23 @@ h1{
     height: 500px;
     background-color:#808080;
     color: white;
+    font-size:130%;
 }
-.square_one{
-    width: 100px;
-    height: 100px;
-    background-color:#fea500;
+div{
+    width: 105px;
+    height: 105px;
+    background: #fea500;
+    margin:auto;
 }
-.square_two{
-    width: 100px;
-    height: 100px;
-    background-color: #fea500;
+.square-one{
+    margin-bottom: 0.5rem;
 }
-.square_three{
-    width: 100px;
-    height: 100px;
-    background-color: #fea500;
+.square-two{
+    margin-bottom: 0.5rem;
 }
-.square_four{
-    width: 100px;
-    height: 100px;
-    background-color: #fea500;
+.square-three{
+    margin-bottom: 0.5rem;
+}
+.square-four{
+    margin-bottom: 0.5rem;
 }
