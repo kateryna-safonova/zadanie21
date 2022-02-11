@@ -1,25 +1,15 @@
-h1{
-    width: 250px;
-    height: 500px;
+body{
     background-color:#808080;
     color: white;
     font-size:130%;
 }
-div{
+h1{
+    text-align: center;
+}
+.square{
     width: 105px;
     height: 105px;
     background: #fea500;
-    margin:auto;
-}
-.square-one{
-    margin-bottom: 0.5rem;
-}
-.square-two{
-    margin-bottom: 0.5rem;
-}
-.square-three{
-    margin-bottom: 0.5rem;
-}
-.square-four{
+    margin: auto;
     margin-bottom: 0.5rem;
 }
